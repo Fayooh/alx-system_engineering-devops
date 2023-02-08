@@ -1,1 +1,1 @@
-File type: School
+We are symbols, and inhabit symbols

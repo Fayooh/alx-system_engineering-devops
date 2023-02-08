@@ -1,1 +1,1 @@
-Create a magic file school.mgc
+Create a symbolic link to /bin/ls, named __ls__
