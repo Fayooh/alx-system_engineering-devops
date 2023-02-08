@@ -1,1 +1,1 @@
- File type
+symbolic link to /bin/ls, named __ls__
